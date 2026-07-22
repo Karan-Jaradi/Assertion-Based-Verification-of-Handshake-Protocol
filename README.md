@@ -1,5 +1,3 @@
-# Assertion-Based-Verification-of-Handshake-Protocol
-
 ## Introduction
 
 This project implements and verifies a **synchronous handshake module** in Verilog, using SystemVerilog Assertions to check request-acknowledge protocol correctness.
